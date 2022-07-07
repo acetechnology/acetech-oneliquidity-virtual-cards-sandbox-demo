@@ -1,0 +1,43 @@
+{
+  "name": "oneliquidity-virtual-cards-sandbox-demo",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Amaechi Osazuwa <teamacetech@gmail.com> (https://acetechnology.biz/)",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test:unit": "vue-cli-service test:unit",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@vuelidate/core": "^2.0.0-alpha.42",
+    "@vuelidate/validators": "^2.0.0-alpha.30",
+    "axios": "^0.27.2",
+    "core-js": "^3.6.5",
+    "nprogress": "^0.2.0",
+    "uuid": "^8.3.2",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0-0",
+    "vuejs-datepicker": "^1.6.2",
+    "vuelidate": "^0.7.7",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.15",
+    "@vue/cli-plugin-eslint": "~4.5.15",
+    "@vue/cli-plugin-router": "~4.5.15",
+    "@vue/cli-plugin-unit-jest": "~4.5.15",
+    "@vue/cli-plugin-vuex": "~4.5.15",
+    "@vue/cli-service": "~4.5.15",
+    "@vue/compiler-sfc": "^3.0.0",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "@vue/test-utils": "^2.0.0-0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-vue": "^7.0.0",
+    "prettier": "^2.2.1",
+    "typescript": "~3.9.3",
+    "vue-jest": "^5.0.0-0"
+  }
+}
