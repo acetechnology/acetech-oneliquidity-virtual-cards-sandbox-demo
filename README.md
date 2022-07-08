@@ -1,6 +1,7 @@
 # acetech+oneliquidity-virtual-cards-sandbox-demo
 ```
 Donate
+https://paystack.com/pay/acetech-plug-and-play
 https://www.paypal.com/donate/?hosted_button_id=5QULG9MZSLL5J
 ```
 
